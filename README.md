@@ -1,4 +1,5 @@
 # Bases
+<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+este es el codigo fuente de mi curso de angular con Fernando Herrera Seccion:4
+>>>>>>> 0ec2770f3665cfb0c0a2c141b0d1c744e6ad0244
