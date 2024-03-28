@@ -1,0 +1,11 @@
+<h1>DRAGON BALL Z  formulario</h1>
+<hr>
+
+<div class="row">
+  <div class="col">
+  <app-listado-personajes [characterList]="characters" (deleteCharactersById)=" deleteCharacterById($event)"></app-listado-personajes>
+  </div>
+  <div class="col">
+  <app-agregar-personaje class="grid-container-fluid" (onNewCharacter)="onNewCharacter($event)"></app-agregar-personaje>
+  </div>
+</div>
